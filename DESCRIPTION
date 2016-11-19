@@ -1,0 +1,11 @@
+Package: dnddiceroller
+Type: Package
+Title: Dungeons and Dragons Dice Rolling Program
+Version: 0.1.0
+Author: Zane Rodnick-Smith
+Maintainer: Zane Rodnick-Smith <zrodnick@gmail.com>
+Description: Dice Rolling Program for Dungeons and Dragons
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
